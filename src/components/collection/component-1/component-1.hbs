@@ -1,0 +1,7 @@
+<h1>{{main-headline}}</h1>
+{{render (append "@" handle) useContext }}
+
+{{#each accordion}}
+    {{render "@component-4--head" this merge=true}}
+    {{render "@component-4" this merge=true}}
+{{/each}}

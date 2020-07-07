@@ -1,0 +1,7 @@
+context:
+  content:
+    accordion:
+      - nav: NAV 111
+        content: CONTENT 111
+      - nav: NAV 222
+        content: CONTENT 222

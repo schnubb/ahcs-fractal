@@ -1,0 +1,11 @@
+context:
+  content: test
+  nav: test
+  baseCss: accordion-content
+variants:
+  - name: head
+    context:
+      baseCss: accordion-head
+  - name: page
+    context:
+      baseCss: accordion-head

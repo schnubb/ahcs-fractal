@@ -1,0 +1,20 @@
+context:
+  handle: "component-2--mod"
+  useContext: "@component-2"
+  accordion:
+    - nav: Nav 1
+      content: Content 1
+      baseCss: "@component-4.baseCss"
+      addCss: " accordion--stylish"
+    - nav: Nav 2
+      content: Content 2
+      baseCss: "@component-4.baseCss"
+      addCss: " accordion--stylish"
+    - nav: Nav 3
+      content: Content 3
+      baseCss: "@component-4.baseCss"
+      addCss: " accordion--stylish"
+    - nav: Nav 4
+      content: Content 4
+      baseCss: "@component-4.baseCss"
+      addCss: " accordion--stylish"
