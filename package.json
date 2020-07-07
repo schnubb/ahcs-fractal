@@ -4,13 +4,14 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "fractal start"
+    "start": "fractal start -s"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "@frctl/fractal": "^1.3.0",
-    "@frctl/handlebars": "^1.1.5"
+    "@frctl/handlebars": "^1.1.5",
+    "handlebars-helpers": "^0.10.0"
   }
 }
